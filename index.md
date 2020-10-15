@@ -19,9 +19,30 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
 * [Wurzelmännchen](http://prd.5footstep.de/MonsterhandbuchII/Wurzelmaennchen)/[Twigjack](https://www.d20pfsrd.com/bestiary/monster-listings/fey/twigjack/)
 * [Flitzling](http://prd.5footstep.de/MonsterhandbuchII/Flitzling)/[Quickling](https://www.d20pfsrd.com/bestiary/monster-listings/fey/quickling/)
 * Faun ([de](http://prd.5footstep.de/MonsterhandbuchIII/Faun)/[en](https://www.d20pfsrd.com/bestiary/monster-listings/fey/faun/)) mit 2 Stufen Ranger (Archery Combat Style)
-* [Nixe](http://prd.5footstep.de/MonsterhandbuchIII/Nixe)/[Nixie](https://www.d20pfsrd.com/bestiary/monster-listings/fey/nixie/) mit 3 Stufen Aquatic Druid (River Domain)
+* [Nixe](http://prd.5footstep.de/MonsterhandbuchIII/Nixe)/[Nixie](https://www.d20pfsrd.com/bestiary/monster-listings/fey/nixie/) mit 3 Stufen Druid (Water Domain)
 * Gnom ([de](http://prd.5footstep.de/NSCKompendium/Grundklassen/Hexenmeister/BefleckterHexenmeister)/[en](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-3/tainted-sorcerer-gnome-sorcerer-4/)) mit 4 Stufen Sorcerer (Fey Bloodline)
 * Gathlain ([de](http://prd.5footstep.de/MonsterhandbuchIV/Gathlain)/[en](https://www.d20pfsrd.com/bestiary/monster-listings/fey/gathlain/)) mit 4 Stufen ???
+
+<style>
+.container { 
+    display: grid;
+    grid-template-rows: 200px 200px 200px; 
+    grid-template-columns: 33% 34% 33%; 
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
+
+<div class="container">
+    <div><a href="pcs/spriggan.htm"><img src="pcs/spriggan.png"></a></div>
+    <div><a href="pcs/twigjack.htm"><img src="pcs/twigjack.png"></a></div>
+    <div><a href="pcs/quickling.htm"><img src="pcs/quickling.png"></a></div>
+    <div><a href="pcs/faun.htm"><img src="pcs/faun.png"></a></div>
+    <div><a href="pcs/nixie.htm"><img src="pcs/nixie.jpg"></a></div>
+    <div><a href="pcs/gnome.htm"><img src="pcs/gnome.png"></a></div>
+</div>
 
 ## Logistik
 
