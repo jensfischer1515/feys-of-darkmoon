@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Die Feenwesen des Finstermondwaldes
 
-You can use the [editor on GitHub](https://github.com/jensfischer1515/feys-of-darkmoon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Die Gefahr durch den Frostreiter und seine Düstereis-Feenwesen konnte durch den heldenhaften Einsatz der **Grauen Eulen** vom Städtchen Falkengrund abgewendet werden.
+Es plagt die **Nymphenkönigin Syntira** allerdings noch immer, dass sie im Kampf gegen die Rodung ihres Reiches durch das Holzfäller-Konsortium in ihrer Verzweiflung auf solch düstere Unterstützung aus den frostigen Hexenlanden Irrisen zurückgreifen musste.
+Auch wenn nach der Zerstörung des **Auges der Verzückung** ein Großteil der verdorbenen Feenwesen wieder zurück an ihren Hof gefunden haben, brodelt der Hass noch immer in einigen von ihnen, ganz voran auch in ihrer Schwester **Ambrosia**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Der Auftrag der Königin
 
-### Markdown
+So ruft Syntira eine Gruppe kleiner Feenwesen zu sich, um gegen die noch immer im **Finstermondwald** umher streunenden Düstereis-Feenwesen zu treten.
+Gefahr droht allerdings nicht nur von abtrünnigen Anhängern ihrer Schwester, auch sind die Holzfäller des Konsortiums noch immer mehr als misstrauisch gegenüber sämtlichen Waldbewohnern.
+Ausserdem melden Späher, dass im nördlichen Wald, nahe des verlassenen Zwergenklosters **Droskars Schmelztiegel**, eine böse Macht zu spüren ist - selbst nach dem Ableben des Koboldkönigs Merlokrep!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Kleine Helden
 
-```markdown
-Syntax highlighted code block
+In diesem One-Shot Abenteuer schlüpfen die Spieler in die Rollen von Feenwesen, um im Auftrag ihrer Königin den Finstermondwald zu erkunden.
+Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr Erfahrungsstufe 4) gestellt, die gut in so ein Setting passen:
 
-# Header 1
-## Header 2
-### Header 3
+* Spriggan ([de](http://prd.5footstep.de/MonsterhandbuchII/Spriggan)/[en](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/spriggan/))
+* [Wurzelmännchen](http://prd.5footstep.de/MonsterhandbuchII/Wurzelmaennchen)/[Twigjack](https://www.d20pfsrd.com/bestiary/monster-listings/fey/twigjack/)
+* [Flitzling](http://prd.5footstep.de/MonsterhandbuchII/Flitzling)/[Quickling](https://www.d20pfsrd.com/bestiary/monster-listings/fey/quickling/)
+* Faun ([de](http://prd.5footstep.de/MonsterhandbuchIII/Faun)/[en](https://www.d20pfsrd.com/bestiary/monster-listings/fey/faun/)) mit 2 Stufen Ranger (Archery Combat Style)
+* [Nixe](http://prd.5footstep.de/MonsterhandbuchIII/Nixe)/[Nixie](https://www.d20pfsrd.com/bestiary/monster-listings/fey/nixie/) mit 3 Stufen Aquatic Druid (River Domain)
+* Gnom ([de](http://prd.5footstep.de/NSCKompendium/Grundklassen/Hexenmeister/BefleckterHexenmeister)/[en](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-3/tainted-sorcerer-gnome-sorcerer-4/)) mit 4 Stufen Sorcerer (Fey Bloodline)
+* Gathlain ([de](http://prd.5footstep.de/MonsterhandbuchIV/Gathlain)/[en](https://www.d20pfsrd.com/bestiary/monster-listings/fey/gathlain/)) mit 4 Stufen ???
 
-- Bulleted
-- List
+## Logistik
 
-1. Numbered
-2. List
+Das One-Shot Abenteuer wird per Video Chat stattfinden. Dazu bietet sich z.B. die [Jitsi Plattform](https://meet.jit.si/) an, weil sie mit sehr wenig Setup-Aufwand am Rechner, Smartphone oder Tablet einzurichten ist.
+Ihr könnt ja schonmal testen, ob ihr einem für den One-Shot dienenden [Chatraum](https://meet.jit.si/SyntirasFeenwesen) betreten könnt :-)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jensfischer1515/feys-of-darkmoon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Termin: **TBD!**
