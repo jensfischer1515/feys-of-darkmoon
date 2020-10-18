@@ -40,7 +40,7 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
     <div><a href="pcs/twigjack.htm"><img src="pcs/twigjack.png"></a></div>
     <div><a href="pcs/quickling.htm"><img src="pcs/quickling.png"></a></div>
     <div><a href="pcs/faun.htm"><img src="pcs/faun.png"></a></div>
-    <div><a href="pcs/nixie.htm"><img src="pcs/nixie.jpg"></a></div>
+    <div><a href="pcs/nixie.htm"><img src="pcs/nixie.png"></a></div>
     <div><a href="pcs/gnome.htm"><img src="pcs/gnome.png"></a></div>
 </div>
 
