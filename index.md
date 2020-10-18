@@ -26,12 +26,17 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
 <style>
 .container { 
     display: grid;
-    grid-template-rows: 200px 200px 200px; 
+    grid-template-rows: 250px 250px 250px; 
     grid-template-columns: 33% 34% 33%; 
     width: 50%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+}
+
+.container div {
+    //padding: 15px;
+    margin: 15px;
 }
 </style>
 
