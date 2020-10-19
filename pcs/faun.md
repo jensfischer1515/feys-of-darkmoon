@@ -1,6 +1,8 @@
 ---
-permalink: /faun.html
+permalink: /pcs/faun.html
 ---
+
+![faun](./faun.png)
 
 _This capricious figure has the upper torso, arms, and head of a man, but goatlike legs, a tail, and curling horns on his head._  
 
