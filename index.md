@@ -21,7 +21,7 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
 * [Wurzelmännchen](http://prd.5footstep.de/MonsterhandbuchII/Wurzelmaennchen)/[Twigjack](https://www.d20pfsrd.com/bestiary/monster-listings/fey/twigjack/)
 * Faun ([de](http://prd.5footstep.de/MonsterhandbuchIII/Faun)/[en](https://www.d20pfsrd.com/bestiary/monster-listings/fey/faun/)) mit 2 Stufen Ranger (Archery Combat Style)
 * [Nixe](http://prd.5footstep.de/MonsterhandbuchIII/Nixe)/[Nixie](https://www.d20pfsrd.com/bestiary/monster-listings/fey/nixie/) mit 3 Stufen Druid (Water Domain)
-* Gathlain ([de](http://prd.5footstep.de/MonsterhandbuchIV/Gathlain)/[en](https://www.d20pfsrd.com/bestiary/monster-listings/fey/gathlain/)) mit 4 Stufen ???
+* Gathlain ([de](http://prd.5footstep.de/MonsterhandbuchIV/Gathlain)/[en](https://www.d20pfsrd.com/bestiary/monster-listings/fey/gathlain/)) mit 2 Stufen Fighter, 1 Stufe Cleric (Chaos & Destruction Domain) & 1 Stufe Wizard (Transmutation)
 
 <style>
 .container { 
