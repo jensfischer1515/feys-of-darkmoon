@@ -61,7 +61,7 @@ CN Small fey
 **Skills** Fly +6, Knowledge (arcana) +5, Knowledge (dungeoneering) +5, Knowledge (geography) +5, Knowledge (history) +5, Knowledge (local) +5, Knowledge (nature) +5, Knowledge (planes) +5, Knowledge (religion) +5  
 **Languages** Common, Draconic, Sylvan  
 **SQ** arcane bond (masterwork cold iron glaive), nimbus of vitality, physical enhancement (+1)  
-**Combat Gear** _pearl of power (1st level)_, _scroll of bless_, _scroll of cure light wounds_ (3), _scroll of entropic shield_, _scroll of mage armor_, _scroll of protection from evil_, _scroll of shield of faith_, _wand of bull's strength (6 charges)_, _wand of shocking grasp (14 charges)_; **Other Gear** composite shortbow (+2 Str) with 20 arrows, mwk cold iron glaive, backpack, bedroll, belt pouch, candle (10), flint and steel, holy text (Gorum)<sup>UE</sup>, ink, inkpen, mess kit<sup>UE</sup>, pot, scroll case, soap, spell component pouch, torch (5), trail rations (3), waterskin, wooden holy symbol of Gorum  
+**Combat Gear** _pearl of power (1st level)_, _scroll of bless_, _scroll of cure light wounds_ (5), _scroll of mage armor_, _scroll of shield of faith_, _wand of bull's strength (5 charges)_, _wand of shocking grasp (CL 3rd, 7 charges)_; **Other Gear** composite shortbow (+2 Str), mwk cold iron glaive, backpack, bedroll, belt pouch, candle (10), flint and steel, holy text (Gorum)<sup>UE</sup>, ink, inkpen, mess kit<sup>UE</sup>, pot, scroll case, soap, spell component pouch, torch (5), trail rations (3), waterskin, wooden holy symbol of Gorum  
 
 * * *
 
