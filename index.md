@@ -40,13 +40,13 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
 </style>
 
 <div class="container">
-    <div><a href="pcs/spriggan.htm"><img src="pcs/spriggan.png"></a></div>
-    <div><a href="pcs/gnome.htm"><img src="pcs/gnome.png"></a></div>
-    <div><a href="pcs/quickling.htm"><img src="pcs/quickling.png"></a></div>
-    <div><a href="pcs/twigjack.htm"><img src="pcs/twigjack.png"></a></div>
+    <div><a href="pcs/spriggan.html"><img src="pcs/spriggan.png"></a></div>
+    <div><a href="pcs/gnome.html"><img src="pcs/gnome.png"></a></div>
+    <div><a href="pcs/quickling.html"><img src="pcs/quickling.png"></a></div>
+    <div><a href="pcs/twigjack.html"><img src="pcs/twigjack.png"></a></div>
     <div><a href="pcs/faun.html"><img src="pcs/faun.png"></a></div>
-    <div><a href="pcs/nixie.htm"><img src="pcs/nixie.png"></a></div>
-    <div><a href="pcs/gathlain.htm"><img src="pcs/gathlain.png"></a></div>
+    <div><a href="pcs/nixie.html"><img src="pcs/nixie.png"></a></div>
+    <div><a href="pcs/gathlain.html"><img src="pcs/gathlain.png"></a></div>
 </div>
 
 ## Logistik
