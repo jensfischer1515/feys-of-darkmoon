@@ -37,14 +37,15 @@ CG Small humanoid (gnome)<br/>
 <hr/><b>Statistics</b><br/>
 <hr/><b>Str </b>10, <b>Dex </b>10, <b>Con </b>10, <b>Int </b>14, <b>Wis </b>13, <b>Cha </b>18<br/>
 <b>Base Atk </b>+2; <b>CMB </b>+1; <b>CMD </b>11<br/>
-<b>Feats </b>Eschew Materials, Magical Aptitude, Spell Focus (illusion)<br/>
-<b>Skills </b>Acrobatics +0 (-4 to jump), Appraise +6, Craft (mapmaking) +10, Knowledge (arcana) +9, Knowledge (history) +3, Knowledge (nature) +6, Perception +3, Spellcraft +11, Survival +1 (+3 to avoid becoming lost when using a Mapmaker's Kit as you travel), Use Magic Device +13;<b> Racial Modifiers </b>+2 Craft (mapmaking), +2 Perception<br/>
+<b>Feats </b>Effortless Trickery, Eschew Materials, Spell Focus (illusion)<br/>
+<b>Skills </b>Acrobatics +0 (-4 to jump), Appraise +6, Craft (mapmaking) +10, Knowledge (arcana) +9, Knowledge (history) +3, Knowledge (nature) +6, Perception +3, Spellcraft +9, Survival +1 (+3 to avoid becoming lost when using a Mapmaker's Kit as you travel), Use Magic Device +11;<b> Racial Modifiers </b>+2 Craft (mapmaking), +2 Perception<br/>
 <b>Languages </b>Common, Draconic, Giant, Gnome, Sylvan<br/>
 <b>SQ </b>bloodline arcana (+2 DC for compulsion spells), gnome magic, woodland stride<br/>
 <b>Combat Gear </b><i>potion of cure light wounds</i>, <i>wand of detect evil (10 charges)</i>, <i>wand of magic missile (CL 3rd, 10 charges)</i>; <b>Other Gear </b>dagger, darkwood quarterstaff, sling with 10 sling bullets, <i>cloak of resistance +1</i>, backpack, bedroll, belt pouch, chalk, flint and steel, ink, inkpen, journal<sup>UE</sup>, mapmaker's kit<sup>APG</sup>, masterwork cartography tools, measuring cord (10 ft.), mess kit<sup>UE</sup>, paper (5), powder<sup>APG</sup>, sack, silk rope (50 ft.), soap, trail rations (3), waterskin<br/>
 <hr/><b>Special Abilities</b><br/>
 <hr/><b>Bloodline Arcana: Fey (Ex)</b> +2 to save DCs from spells of the Compulsion subschool.<br/>
 <b>Defensive Training +4</b> Gain a dodge bonus to AC vs. monsters of the Giant subtype.<br/>
+<b>Effortless Trickery</b> Maintain concentration on 1 illusion spell per rd as a swift action.<br/>
 <b>Eschew Materials</b> Cast spells without materials, if component cost is 1 gp or less.<br/>
 <b>Gnome Magic</b> Add 1 to the DCs of any saving throws to resist illusion spells cast.<br/>
 <b>Hatred +1</b> Gain a bonus to attack vs. goblinoid/reptilian humanoids.<br/>
