@@ -4,79 +4,54 @@ permalink: /pcs/faun.html
 
 ![faun](./faun.png)
 
-_This capricious figure has the upper torso, arms, and head of a man, but goatlike legs, a tail, and curling horns on his head._  
+<html>
+<head><title>Faun Ranger - created with Hero Lab&reg;</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<i>This capricious figure has the upper torso, arms, and head of a man, but goatlike legs, a tail, and curling horns on his head.</i><br/>
+<hr/><b>Faun Ranger</b>&nbsp;&nbsp;&nbsp;&nbsp;CR 3<br/>
+<b>XP 800</b><br/>
+Male faun ranger 2 (<i>Pathfinder RPG Bestiary 3</i> 114)<br/>
+CG Medium fey<br/>
+<b>Init </b>+3; <b>Senses </b>low-light vision; Perception +10<br/>
+<hr/><b>Defense</b><br/>
+<hr/><b>AC </b>20, touch 13, flat-footed 17 (+4 armor, +3 Dex, +3 natural)<br/>
+<b>hp </b>28 (5 HD; 3d6+2d10+7)<br/>
+<b>Fort </b>+5, <b>Ref </b>+9, <b>Will </b>+5<br/>
+<b>DR </b>2/cold iron<br/>
+<hr/><b>Offense</b><br/>
+<hr/><b>Speed </b>30 ft.<br/>
+<b>Melee </b>mwk short sword +7 (1d6+2/19-20)<br/>
+<b>Ranged </b>darkwood composite shortbow +7 (1d6+2/×3)<br/>
+<b>Special Attacks </b>combat style (archery), favored enemy (humans +2), panpipes<br/>
+<b>Spell-Like Abilities</b> (CL 3rd; concentration +6)<br/>
+&nbsp;&nbsp;&nbsp;At will—<i>ghost sound</i> (DC 13)<br/>
+&nbsp;&nbsp;&nbsp;1/day—<i>hideous laughter</i> (DC 14), <i>sleep</i> (DC 14)<br/>
+<hr/><b>Statistics</b><br/>
+<hr/><b>Str </b>14, <b>Dex </b>16, <b>Con </b>13, <b>Int </b>11, <b>Wis </b>14, <b>Cha </b>17<br/>
+<b>Base Atk </b>+3; <b>CMB </b>+5; <b>CMD </b>18<br/>
+<b>Feats </b>Point-Blank Shot, Precise Shot, Rapid Shot, Weapon Finesse<br/>
+<b>Skills </b>Acrobatics +8, Bluff +9, Climb +6, Craft (bows) +6, Handle Animal +10, Knowledge (nature) +4, Perception +10, Perform (wind instruments) +11, Sense Motive +7, Stealth +11, Survival +7, Swim +6<br/>
+<b>Languages </b>Common, Sylvan<br/>
+<b>SQ </b>track +1, wild empathy +5<br/>
+<b>Combat Gear </b><i>potion of cat's grace</i>, <i>potion of cure light wounds</i> (3); <b>Other Gear </b><i>+1 studded leather</i>, mwk buckler, darkwood composite shortbow (+2 Str) with 40 arrows, mwk short sword, backpack, bedroll, belt pouch, flint and steel, masterwork bowyer tools, masterwork Panpipes, mess kit<sup>UE</sup>, silk rope (50 ft.), torch (5), trail rations (3), waterskin<br/>
+<hr/><b>Ecology</b><br/>
+<hr/><b>Environment</b> temperate forests<br/>
+<b>Organization</b> solitary, pair, or band (3-8)<br/>
+<b>Treasure</b> standard (dagger, shortbow with 20 arrows, masterwork panpipes, other treasure)<br/>
+<hr/><b>Special Abilities</b><br/>
+<hr/><b>Damage Reduction (2/cold iron)</b> You have Damage Reduction against all except Cold Iron attacks.<br/>
+<b>Favored Enemy (Humans +2) (Ex)</b> +2 to rolls vs. humans foes.<br/>
+<b>Low-Light Vision</b> See twice as far as a human in dim light, distinguishing color and detail.<br/>
+<b>Panpipes (3/day) (Su)</b> Play panpipes as a swift action to add +2 DC to spell like ability used that turn.<br/>
+<b>Point-Blank Shot</b> +1 to attack and damage rolls with ranged weapons at up to 30 feet.<br/>
+<b>Precise Shot</b> You don't get -4 to hit when shooting or throwing into melee.<br/>
+<b>Rapid Shot</b> You get an extra attack with ranged weapons. Each attack is at -2.<br/>
+<b>Track +1</b> Add the listed bonus to Survival checks made to track.<br/>
+<b>Wild Empathy +5 (Ex)</b> Improve the attitude of an animal, as if using Diplomacy.<br/>
 
-* * *
-
-**Faun Ranger**    CR 3  
-**XP 800**  
-Male faun ranger 2 (_Pathfinder RPG Bestiary 3_ 114)  
-CG Medium fey  
-**Init** +3; **Senses** low-light vision; Perception +10  
-
-* * *
-
-**Defense**  
-
-* * *
-
-**AC** 18, touch 13, flat-footed 15 (+2 armor, +3 Dex, +3 natural)  
-**hp** 28 (5 HD; 3d6+2d10+7)  
-**Fort** +5, **Ref** +9, **Will** +5  
-**DR** 2/cold iron  
-
-* * *
-
-**Offense**  
-
-* * *
-
-**Speed** 30 ft.  
-**Melee** mwk dagger +6 (1d4+2/19-20)  
-**Ranged** darkwood composite shortbow +7 (1d6+2/×3)  
-**Special Attacks** combat style (archery), favored enemy (humans +2), panpipes  
-**Spell-Like Abilities** (CL 3rd; concentration +6)  
-   At will—_ghost sound_ (DC 13)  
-   1/day—_hideous laughter_ (DC 14), _sleep_ (DC 14)  
-
-* * *
-
-**Statistics**  
-
-* * *
-
-**Str** 14, **Dex** 16, **Con** 13, **Int** 11, **Wis** 14, **Cha** 17  
-**Base Atk** +3; **CMB** +5; **CMD** 18  
-**Feats** Point-Blank Shot, Precise Shot, Rapid Shot, Weapon Finesse  
-**Skills** Acrobatics +8, Bluff +9, Climb +6, Craft (bows) +6, Handle Animal +10, Knowledge (nature) +4, Perception +10, Perform (wind instruments) +11, Sense Motive +7, Stealth +11, Survival +7, Swim +6  
-**Languages** Common, Sylvan  
-**SQ** track +1, wild empathy +5  
-**Combat Gear** _potion of cat's grace_, _potion of cure light wounds_ (2), _potion of shield of faith +2_; **Other Gear** leather armor, buckler, darkwood composite shortbow (+2 Str) with 8 +1 dragon-bane arrow and 40 arrows, mwk dagger, backpack, bedroll, belt pouch, flint and steel, masterwork bowyer tools, masterwork Panpipes, mess kit<sup>UE</sup>, silk rope (50 ft.), torch (5), trail rations (3), waterskin  
-
-* * *
-
-**Ecology**  
-
-* * *
-
-**Environment** temperate forests  
-**Organization** solitary, pair, or band (3-8)  
-**Treasure** standard (dagger, shortbow with 20 arrows, masterwork panpipes, other treasure)  
-
-* * *
-
-**Special Abilities**  
-
-* * *
-
-**Damage Reduction (2/cold iron)** You have Damage Reduction against all except Cold Iron attacks.  
-**Favored Enemy (Humans +2) (Ex)** +2 to rolls vs. humans foes.  
-**Low-Light Vision** See twice as far as a human in dim light, distinguishing color and detail.  
-**Panpipes (3/day) (Su)** Play panpipes as a swift action to add +2 DC to spell like ability used that turn.  
-**Point-Blank Shot** +1 to attack and damage rolls with ranged weapons at up to 30 feet.  
-**Precise Shot** You don't get -4 to hit when shooting or throwing into melee.  
-**Rapid Shot** You get an extra attack with ranged weapons. Each attack is at -2.  
-**Track +1** Add the listed bonus to Survival checks made to track.  
-**Wild Empathy +5 (Ex)** Improve the attitude of an animal, as if using Diplomacy.  
-
-Hero Lab and the Hero Lab logo are Registered Trademarks of LWD Technology, Inc. Free download at https://www.wolflair.com Pathfinder® and associated marks and logos are trademarks of Paizo Inc.®, and are used under license.
+<p>Hero Lab and the Hero Lab logo are Registered Trademarks of LWD Technology, Inc. Free download at https://www.wolflair.com
+Pathfinder® and associated marks and logos are trademarks of Paizo Inc.®, and are used under license.</p>
+</body>
+</html>

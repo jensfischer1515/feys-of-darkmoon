@@ -4,73 +4,56 @@ permalink: /pcs/gnome.html
 
 ![gnome](./gnome.png)
 
+<html>
+<head><title>Gnome Sorcerer - created with Hero Lab&reg;</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<b>Gnome Sorcerer</b>&nbsp;&nbsp;&nbsp;&nbsp;CR 3<br/>
+<b>XP 800</b><br/>
+Male gnome sorcerer 4<br/>
+CG Small humanoid (gnome)<br/>
+<b>Init </b>+0; <b>Senses </b>low-light vision; Perception +3<br/>
+<hr/><b>Defense</b><br/>
+<hr/><b>AC </b>11, touch 11, flat-footed 11 (+1 size)<br/>
+<b>hp </b>20 (4d6+4)<br/>
+<b>Fort </b>+2, <b>Ref </b>+2, <b>Will </b>+6; +2 vs. illusions<br/>
+<b>Defensive Abilities </b>defensive training<br/>
+<hr/><b>Offense</b><br/>
+<hr/><b>Speed </b>20 ft.<br/>
+<b>Melee </b>dagger +3 (1d3/19-20) or<br/>
+&nbsp;&nbsp;&nbsp;darkwood quarterstaff +4 (1d4)<br/>
+<b>Ranged </b>sling +3 (1d3)<br/>
+<b>Special Attacks </b>hatred<br/>
+<b>Spell-Like Abilities</b> (CL 4th; concentration +8)<br/>
+&nbsp;&nbsp;&nbsp;1/day—<i>dancing lights</i>, <i>ghost sound</i> (DC 16), <i>prestidigitation</i>, <i>speak with animals</i><br/>
+<b>Bloodline Spell-Like Abilities</b> (CL 4th; concentration +8)<br/>
+&nbsp;&nbsp;&nbsp;7/day—laughing touch<br/>
+<b>Sorcerer Spells Known </b>(CL 4th; concentration +8)<br/>
+&nbsp;&nbsp;&nbsp;2nd (4/day)—<i>minor image</i> (DC 18)<br/>
+&nbsp;&nbsp;&nbsp;1st (7/day)—<i>color spray</i> (DC 17), <i>entangle</i> (DC 15), <i>obscuring mist</i>, <i>sleep</i> (DC 17)<br/>
+&nbsp;&nbsp;&nbsp;0 (at will)—<i>daze</i> (DC 16), <i>detect magic</i>, <i>light</i>, <i>mage hand</i>, <i>open/close</i> (DC 14), <i>read magic</i><br/>
+&nbsp;&nbsp;&nbsp;<b>Bloodline</b> Fey<br/>
+<hr/><b>Statistics</b><br/>
+<hr/><b>Str </b>10, <b>Dex </b>10, <b>Con </b>10, <b>Int </b>14, <b>Wis </b>13, <b>Cha </b>18<br/>
+<b>Base Atk </b>+2; <b>CMB </b>+1; <b>CMD </b>11<br/>
+<b>Feats </b>Eschew Materials, Magical Aptitude, Spell Focus (illusion)<br/>
+<b>Skills </b>Acrobatics +0 (-4 to jump), Appraise +6, Craft (mapmaking) +10, Knowledge (arcana) +9, Knowledge (history) +3, Knowledge (nature) +6, Perception +3, Spellcraft +11, Survival +1 (+3 to avoid becoming lost when using a Mapmaker's Kit as you travel), Use Magic Device +13;<b> Racial Modifiers </b>+2 Craft (mapmaking), +2 Perception<br/>
+<b>Languages </b>Common, Draconic, Giant, Gnome, Sylvan<br/>
+<b>SQ </b>bloodline arcana (+2 DC for compulsion spells), gnome magic, woodland stride<br/>
+<b>Combat Gear </b><i>potion of cure light wounds</i>, <i>wand of detect evil (10 charges)</i>, <i>wand of magic missile (CL 3rd, 10 charges)</i>; <b>Other Gear </b>dagger, darkwood quarterstaff, sling with 10 sling bullets, <i>cloak of resistance +1</i>, backpack, bedroll, belt pouch, chalk, flint and steel, ink, inkpen, journal<sup>UE</sup>, mapmaker's kit<sup>APG</sup>, masterwork cartography tools, measuring cord (10 ft.), mess kit<sup>UE</sup>, paper (5), powder<sup>APG</sup>, sack, silk rope (50 ft.), soap, trail rations (3), waterskin<br/>
+<hr/><b>Special Abilities</b><br/>
+<hr/><b>Bloodline Arcana: Fey (Ex)</b> +2 to save DCs from spells of the Compulsion subschool.<br/>
+<b>Defensive Training +4</b> Gain a dodge bonus to AC vs. monsters of the Giant subtype.<br/>
+<b>Eschew Materials</b> Cast spells without materials, if component cost is 1 gp or less.<br/>
+<b>Gnome Magic</b> Add 1 to the DCs of any saving throws to resist illusion spells cast.<br/>
+<b>Hatred +1</b> Gain a bonus to attack vs. goblinoid/reptilian humanoids.<br/>
+<b>Laughing Touch (7/day) (Sp)</b> As a standard action, if melee touch hits, foe can take only move actions for 1 rd.<br/>
+<b>Low-Light Vision</b> See twice as far as a human in dim light, distinguishing color and detail.<br/>
+<b>Spell Focus (Illusion)</b> Spells from one school of magic have +1 to their save DC.<br/>
+<b>Woodland Stride (Ex)</b> Move through undergrowth at normal speed.<br/>
 
-**Gnome Sorcerer**    CR 3  
-**XP 800**  
-Male gnome sorcerer 4  
-CG Small humanoid (gnome)  
-**Init** +1; **Senses** low-light vision; Perception +4  
-
-* * *
-
-**Defense**  
-
-* * *
-
-**AC** 12, touch 12, flat-footed 11 (+1 Dex, +1 size)  
-**hp** 24 (4d6+8)  
-**Fort** +4, **Ref** +3, **Will** +7; +2 vs. illusions  
-**Defensive Abilities** defensive training  
-
-* * *
-
-**Offense**  
-
-* * *
-
-**Speed** 20 ft.  
-**Melee** dagger +1 (1d3-2/19-20) or  
-   gnome hooked hammer +1 (1d6-2/×3/×4)  
-**Ranged** dart +4 (1d3-2)  
-**Special Attacks** hatred  
-**Spell-Like Abilities** (CL 4th; concentration +8)  
-   1/day—_dancing lights_, _ghost sound_ (DC 16), _prestidigitation_, _speak with animals_  
-**Bloodline Spell-Like Abilities** (CL 4th; concentration +8)  
-   7/day—laughing touch  
-**Sorcerer Spells Known** (CL 4th; concentration +8)  
-   2nd (4/day)—_minor image_ (DC 18)  
-   1st (7/day)—_color spray_ (DC 17), _entangle_ (DC 15), _obscuring mist_, _sleep_ (DC 17)  
-   0 (at will)—_daze_ (DC 16), _detect magic_, _light_, _mage hand_, _open/close_ (DC 14), _read magic_  
-   **Bloodline** Fey  
-
-* * *
-
-**Statistics**  
-
-* * *
-
-**Str** 6, **Dex** 12, **Con** 15, **Int** 10, **Wis** 14, **Cha** 18  
-**Base Atk** +2; **CMB** -1; **CMD** 10  
-**Feats** Eschew Materials, Magical Aptitude, Spell Focus (illusion)  
-**Skills** Acrobatics +1 (-3 to jump), Appraise +4, Craft (mapmaking) +8, Knowledge (arcana) +7, Knowledge (nature) +4, Perception +4, Spellcraft +9, Use Magic Device +10; **Racial Modifiers** +2 Craft (mapmaking), +2 Perception  
-**Languages** Common, Gnome, Sylvan  
-**SQ** bloodline arcana (+2 DC for compulsion spells), gnome magic, woodland stride  
-**Combat Gear** _scroll of animate rope_, _scroll of comprehend languages_, _scroll of erase_, _scroll of expeditious retreat_, _scroll of hold portal_, _scroll of identify_, _scroll of invisibility_, _scroll of knock_, _wand of detect evil (10 charges)_, _wand of magic missile (CL 3rd, 15 charges)_; **Other Gear** dagger, dart (6), gnome hooked hammer, _cloak of resistance +1_, backpack, bedroll, belt pouch, chalk, flint and steel, ink, inkpen, journal<sup>UE</sup>, masterwork cartography tools, measuring cord (10 ft.), mess kit<sup>UE</sup>, paper (5), powder<sup>APG</sup>, sack, scroll case, silk rope (50 ft.), soap, trail rations (3), waterskin  
-
-* * *
-
-**Special Abilities**  
-
-* * *
-
-**Bloodline Arcana: Fey (Ex)** +2 to save DCs from spells of the Compulsion subschool.  
-**Defensive Training +4** Gain a dodge bonus to AC vs. monsters of the Giant subtype.  
-**Eschew Materials** Cast spells without materials, if component cost is 1 gp or less.  
-**Gnome Magic** Add 1 to the DCs of any saving throws to resist illusion spells cast.  
-**Hatred +1** Gain a bonus to attack vs. goblinoid/reptilian humanoids.  
-**Laughing Touch (7/day) (Sp)** As a standard action, if melee touch hits, foe can take only move actions for 1 rd.  
-**Low-Light Vision** See twice as far as a human in dim light, distinguishing color and detail.  
-**Spell Focus (Illusion)** Spells from one school of magic have +1 to their save DC.  
-**Woodland Stride (Ex)** Move through undergrowth at normal speed.  
-
-Hero Lab and the Hero Lab logo are Registered Trademarks of LWD Technology, Inc. Free download at https://www.wolflair.com Pathfinder® and associated marks and logos are trademarks of Paizo Inc.®, and are used under license.
+<p>Hero Lab and the Hero Lab logo are Registered Trademarks of LWD Technology, Inc. Free download at https://www.wolflair.com
+Pathfinder® and associated marks and logos are trademarks of Paizo Inc.®, and are used under license.</p>
+</body>
+</html>

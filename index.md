@@ -40,6 +40,7 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
 </style>
 
 <div class="container">
+    <div><a href="pcs/centaur.html"><img src="pcs/centaur.png"></a></div>
     <div><a href="pcs/spriggan.html"><img src="pcs/spriggan.png"></a></div>
     <div><a href="pcs/gnome.html"><img src="pcs/gnome.png"></a></div>
     <div><a href="pcs/quickling.html"><img src="pcs/quickling.png"></a></div>

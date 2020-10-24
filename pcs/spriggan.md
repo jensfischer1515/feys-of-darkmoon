@@ -4,76 +4,50 @@ permalink: /pcs/spriggan.html
 
 ![spriggan](./spriggan.png)
 
+<html>
+<head><title>Spriggan - created with Hero Lab&reg;</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<i>Flecks of saliva drip from the corners of this filthy and ill-smelling humanoid, and his large pointed ears twitch at every sound.</i><br/>
+<hr/><b>Spriggan</b>&nbsp;&nbsp;&nbsp;&nbsp;CR 3<br/>
+<b>XP 800</b><br/>
+Male spriggan (<i>Pathfinder RPG Bestiary 2</i> 257)<br/>
+CE Small humanoid (gnome)<br/>
+<b>Init </b>+4; <b>Senses </b>low-light vision; Perception +7<br/>
+<hr/><b>Defense</b><br/>
+<hr/><b>AC </b>21, touch 15, flat-footed 17 (+4 armor, +4 Dex, +2 shield, +1 size)<br/>
+<b>hp </b>22 (4d8+4)<br/>
+<b>Fort </b>+5, <b>Ref </b>+5, <b>Will </b>+1<br/>
+<hr/><b>Offense</b><br/>
+<hr/><b>Speed </b>20 ft.<br/>
+<b>Melee </b>dagger +3 (1d3-1/19-20) or<br/>
+&nbsp;&nbsp;&nbsp;mwk morningstar +5 (1d6-1)<br/>
+<b>Ranged </b>light crossbow +8 (1d6/19-20)<br/>
+<b>Special Attacks </b>sneak attack +2d6<br/>
+<b>Spell-Like Abilities</b> (CL 4th; concentration +3)<br/>
+&nbsp;&nbsp;&nbsp;At will—<i>flare</i> (DC 9), <i>scare</i> (DC 11), <i>shatter</i> (DC 11)<br/>
+<hr/><b>Statistics</b><br/>
+<hr/><b>Str </b>9, <b>Dex </b>19, <b>Con </b>12, <b>Int </b>10, <b>Wis </b>10, <b>Cha </b>9<br/>
+<b>Base Atk </b>+3; <b>CMB </b>+1; <b>CMD </b>15<br/>
+<b>Feats </b>Combat Reflexes, Weapon Focus (morningstar)<br/>
+<b>Skills </b>Acrobatics +4 (+0 to jump), Climb +3, Disable Device +11, Perception +7, Sleight of Hand +11, Stealth +15;<b> Racial Modifiers </b>+2 Climb, +2 Disable Device, +2 Perception, +2 Sleight of Hand, +2 Stealth<br/>
+<b>Languages </b>Aklo, Gnome<br/>
+<b>SQ </b>size alteration, spriggan magic, spriggan skills<br/>
+<b>Combat Gear </b><i>potion of bull's strength</i>, <i>potion of cure light wounds</i> (3), <i>potion of jump</i>, oil (4); <b>Other Gear </b><i>+1 studded leather</i>, darkwood heavy wooden shield, dagger, light crossbow with 10 bolts, mwk morningstar, backpack, bedroll, belt pouch, climber's kit, flint and steel, grappling hook, hammer, hooded lantern, piton (8), silk rope (100 ft.), thieves' tools, trail rations (3), waterskin<br/>
+<hr/><b>Ecology</b><br/>
+<hr/><b>Environment</b> any hills or forests<br/>
+<b>Organization</b> solitary, pair, or mob (3-12)<br/>
+<b>Treasure</b> npc gear (leather armor, masterwork morningstar, light crossbow with 10 bolts, other treasure)<br/>
+<hr/><b>Special Abilities</b><br/>
+<hr/><b>Combat Reflexes (5 AoO/round)</b> Can make extra attacks of opportunity/rd, and even when flat-footed.<br/>
+<b>Low-Light Vision</b> See twice as far as a human in dim light, distinguishing color and detail.<br/>
+<b>Size Alteration (Su)</b> At will as a standard action, a spriggan can change his size between Small and Large. Weapons, armor, and other objects on the spriggan's person grow proportionally when he changes size (objects revert to normal size 1 round after a spriggan releases<br/>
+<b>Sneak Attack +2d6</b> Attacks deal extra dam if flank foe or if foe is flat-footed.<br/>
+<b>Spriggan Magic (Ex)</b> A spriggan gains a +1 racial bonus on concentration checks and to save DCs for all of its racial spell-like abilities.<br/>
+<b>Spriggan Skills (Ex)</b> Climb, Disable Device, Perception, Sleight of Hand, and Stealth are class skills for spriggans.<br/>
 
-_Flecks of saliva drip from the corners of this filthy and ill-smelling humanoid, and his large pointed ears twitch at every sound._  
-
-* * *
-
-**Spriggan**    CR 3  
-**XP 800**  
-Male spriggan (_Pathfinder RPG Bestiary 2_ 257)  
-CE Small humanoid (gnome)  
-**Init** +4; **Senses** low-light vision; Perception +7  
-
-* * *
-
-**Defense**  
-
-* * *
-
-**AC** 20, touch 16, flat-footed 16 (+2 armor, +1 deflection, +4 Dex, +2 shield, +1 size)  
-**hp** 22 (4d8+4)  
-**Fort** +5, **Ref** +5, **Will** +1  
-
-* * *
-
-**Offense**  
-
-* * *
-
-**Speed** 20 ft.  
-**Melee** dagger +3 (1d3-1/19-20) or  
-   mwk morningstar +5 (1d6-1)  
-**Ranged** light crossbow +8 (1d6/19-20)  
-**Special Attacks** sneak attack +2d6  
-**Spell-Like Abilities** (CL 4th; concentration +3)  
-   At will—_flare_ (DC 9), _scare_ (DC 11), _shatter_ (DC 11)  
-
-* * *
-
-**Statistics**  
-
-* * *
-
-**Str** 9, **Dex** 19, **Con** 12, **Int** 10, **Wis** 10, **Cha** 9  
-**Base Atk** +3; **CMB** +1; **CMD** 16  
-**Feats** Combat Reflexes, Weapon Focus (morningstar)  
-**Skills** Acrobatics +2 (-2 to jump), Climb -1, Disable Device +9, Perception +7, Sleight of Hand +9, Stealth +13; **Racial Modifiers** +2 Climb, +2 Disable Device, +2 Perception, +2 Sleight of Hand, +2 Stealth  
-**Languages** Aklo, Gnome  
-**SQ** size alteration, spriggan magic, spriggan skills  
-**Other Gear** leather armor, heavy wooden shield, dagger, light crossbow with 10 bolts, mwk morningstar, _ring of protection +1_, backpack, bedroll, belt pouch, flint and steel, hemp rope (50 ft.), mess kit<sup>UE</sup>, pot, soap, torch (10), trail rations (5), waterskin  
-
-* * *
-
-**Ecology**  
-
-* * *
-
-**Environment** any hills or forests  
-**Organization** solitary, pair, or mob (3-12)  
-**Treasure** npc gear (leather armor, masterwork morningstar, light crossbow with 10 bolts, other treasure)  
-
-* * *
-
-**Special Abilities**  
-
-* * *
-
-**Combat Reflexes (5 AoO/round)** Can make extra attacks of opportunity/rd, and even when flat-footed.  
-**Low-Light Vision** See twice as far as a human in dim light, distinguishing color and detail.  
-**Size Alteration (Su)** At will as a standard action, a spriggan can change his size between Small and Large. Weapons, armor, and other objects on the spriggan's person grow proportionally when he changes size (objects revert to normal size 1 round after a spriggan releases  
-**Sneak Attack +2d6** Attacks deal extra dam if flank foe or if foe is flat-footed.  
-**Spriggan Magic (Ex)** A spriggan gains a +1 racial bonus on concentration checks and to save DCs for all of its racial spell-like abilities.  
-**Spriggan Skills (Ex)** Climb, Disable Device, Perception, Sleight of Hand, and Stealth are class skills for spriggans.  
-
-Hero Lab and the Hero Lab logo are Registered Trademarks of LWD Technology, Inc. Free download at https://www.wolflair.com Pathfinder® and associated marks and logos are trademarks of Paizo Inc.®, and are used under license.
+<p>Hero Lab and the Hero Lab logo are Registered Trademarks of LWD Technology, Inc. Free download at https://www.wolflair.com
+Pathfinder® and associated marks and logos are trademarks of Paizo Inc.®, and are used under license.</p>
+</body>
+</html>

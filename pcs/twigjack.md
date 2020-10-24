@@ -4,78 +4,52 @@ permalink: /pcs/twigjack.html
 
 ![twigjack](./twigjack.png)
 
+<html>
+<head><title>Twigjack - created with Hero Lab&reg;</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<i>This tiny, vaguely humanoid creature seems to be made completely of bundles of sticks wound with thorny vines.</i><br/>
+<hr/><b>Twigjack</b>&nbsp;&nbsp;&nbsp;&nbsp;CR 3<br/>
+<b>XP 800</b><br/>
+Twigjack (<i>Pathfinder RPG Bestiary 2</i> 274)<br/>
+CE Tiny fey<br/>
+<b>Init </b>+3; <b>Senses </b>darkvision 60 ft., low-light vision; Perception +10<br/>
+<hr/><b>Defense</b><br/>
+<hr/><b>AC </b>18, touch 15, flat-footed 15 (+1 armor, +3 Dex, +2 natural, +2 size)<br/>
+<b>hp </b>27 (5d6+10)<br/>
+<b>Fort </b>+3, <b>Ref </b>+7, <b>Will </b>+6<br/>
+<b>Weaknesses </b>vulnerability to fire<br/>
+<hr/><b>Offense</b><br/>
+<hr/><b>Speed </b>30 ft.<br/>
+<b>Melee </b>darkwood longspear +4 (1d4-1/×3) or<br/>
+&nbsp;&nbsp;&nbsp;2 claws +7 (1d4-1)<br/>
+<b>Ranged </b>javelin +7 (1d3-1)<br/>
+<b>Space </b>2½ ft.; <b>Reach </b>0 ft.<br/>
+<b>Special Attacks </b>sneak attack +2d6, splinterspray<br/>
+<hr/><b>Statistics</b><br/>
+<hr/><b>Str </b>8, <b>Dex </b>16, <b>Con </b>15, <b>Int </b>11, <b>Wis </b>14, <b>Cha </b>13<br/>
+<b>Base Atk </b>+2; <b>CMB </b>+3; <b>CMD </b>12<br/>
+<b>Feats </b>Agile Maneuvers, Skill Focus (Stealth), Weapon Finesse<br/>
+<b>Skills </b>Acrobatics +11, Climb +11, Disable Device +10, Knowledge (nature) +8, Perception +10, Stealth +22<br/>
+<b>Languages </b>Common, Sylvan<br/>
+<b>SQ </b>bramble jump, woodland stride<br/>
+<b>Combat Gear </b><i>potion of blur</i>, <i>potion of cure light wounds</i>, <i>potion of magic fang</i>, <i>potion of resist fire 10</i>; <b>Other Gear </b>darkwood longspear, javelin (6), <i>bracers of armor +1</i>, <i>elixir of vision</i>, belt pouch, masterwork thieves' tools<br/>
+<hr/><b>Ecology</b><br/>
+<hr/><b>Environment</b> temperate forests<br/>
+<b>Organization</b> solitary, pair, or gang (3-8)<br/>
+<b>Treasure</b> standard<br/>
+<hr/><b>Special Abilities</b><br/>
+<hr/><b>Agile Maneuvers</b> Use DEX instead of STR for CMB<br/>
+<b>Bramble Jump (Su)</b> A twigjack can travel short distances between brambles, shrubs, or thickets as if via dimension door as part of a move action. The twigjack must begin and end this movement while in an area of at least light undergrowth. The twigjack can travel in th<br/>
+<b>Darkvision (60 feet)</b> You can see in the dark (black and white only).<br/>
+<b>Low-Light Vision</b> See twice as far as a human in dim light, distinguishing color and detail.<br/>
+<b>Sneak Attack +2d6</b> Attacks deal extra dam if flank foe or if foe is flat-footed.<br/>
+<b>Splinterspray (DC 14) (Ex)</b> A twigjack can eject a barrage of splinters and brambles from its body three times per day as a standard action. This effect creates a 15-foot conical burst of jagged splinters, dealing 4d6 points of piercing damage to all creatures in the area. A DC<br/>
+<b>Vulnerability to Fire</b> You are vulnerable (+50% damage) to Fire damage.<br/>
+<b>Woodland Stride (Ex)</b> Move through undergrowth at normal speed.<br/>
 
-_This tiny, vaguely humanoid creature seems to be made completely of bundles of sticks wound with thorny vines._  
-
-* * *
-
-**Twigjack**    CR 3  
-**XP 800**  
-Twigjack (_Pathfinder RPG Bestiary 2_ 274)  
-CE Tiny fey  
-**Init** +3; **Senses** darkvision 60 ft., low-light vision; Perception +10  
-
-* * *
-
-**Defense**  
-
-* * *
-
-**AC** 18, touch 15, flat-footed 15 (+1 armor, +3 Dex, +2 natural, +2 size)  
-**hp** 27 (5d6+10)  
-**Fort** +3, **Ref** +7, **Will** +6  
-**Weaknesses** vulnerability to fire  
-
-* * *
-
-**Offense**  
-
-* * *
-
-**Speed** 30 ft.  
-**Melee** darkwood longspear +4 (1d4-1/×3) or  
-   2 claws +7 (1d4-1)  
-**Ranged** javelin +7 (1d3-1)  
-**Space** 2½ ft.; **Reach** 0 ft.  
-**Special Attacks** sneak attack +2d6, splinterspray  
-
-* * *
-
-**Statistics**  
-
-* * *
-
-**Str** 8, **Dex** 16, **Con** 15, **Int** 11, **Wis** 14, **Cha** 13  
-**Base Atk** +2; **CMB** +3; **CMD** 12  
-**Feats** Agile Maneuvers, Skill Focus (Stealth), Weapon Finesse  
-**Skills** Acrobatics +11, Climb +11, Disable Device +10, Knowledge (nature) +8, Perception +10, Stealth +22  
-**Languages** Common, Sylvan  
-**SQ** bramble jump, woodland stride  
-**Combat Gear** _potion of blur_, _potion of cure light wounds_, _potion of magic fang_, _potion of resist fire 10_; **Other Gear** darkwood longspear, javelin (3), _bracers of armor +1_, _elixir of vision_, belt pouch, masterwork thieves' tools  
-
-* * *
-
-**Ecology**  
-
-* * *
-
-**Environment** temperate forests  
-**Organization** solitary, pair, or gang (3-8)  
-**Treasure** standard  
-
-* * *
-
-**Special Abilities**  
-
-* * *
-
-**Agile Maneuvers** Use DEX instead of STR for CMB  
-**Bramble Jump (Su)** A twigjack can travel short distances between brambles, shrubs, or thickets as if via dimension door as part of a move action. The twigjack must begin and end this movement while in an area of at least light undergrowth. The twigjack can travel in th  
-**Darkvision (60 feet)** You can see in the dark (black and white only).  
-**Low-Light Vision** See twice as far as a human in dim light, distinguishing color and detail.  
-**Sneak Attack +2d6** Attacks deal extra dam if flank foe or if foe is flat-footed.  
-**Splinterspray (DC 14) (Ex)** A twigjack can eject a barrage of splinters and brambles from its body three times per day as a standard action. This effect creates a 15-foot conical burst of jagged splinters, dealing 4d6 points of piercing damage to all creatures in the area. A DC  
-**Vulnerability to Fire** You are vulnerable (+50% damage) to Fire damage.  
-**Woodland Stride (Ex)** Move through undergrowth at normal speed.  
-
-Hero Lab and the Hero Lab logo are Registered Trademarks of LWD Technology, Inc. Free download at https://www.wolflair.com Pathfinder® and associated marks and logos are trademarks of Paizo Inc.®, and are used under license.
+<p>Hero Lab and the Hero Lab logo are Registered Trademarks of LWD Technology, Inc. Free download at https://www.wolflair.com
+Pathfinder® and associated marks and logos are trademarks of Paizo Inc.®, and are used under license.</p>
+</body>
+</html>
