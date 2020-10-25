@@ -16,16 +16,17 @@ In diesem One-Shot Abenteuer schlüpfen die Spieler in die Rollen von Feenwesen,
 Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr Erfahrungsstufe 4) gestellt, die gut in so ein Setting passen:
 
 * Faun ([de](http://prd.5footstep.de/MonsterhandbuchIII/Faun)/[en](https://www.d20pfsrd.com/bestiary/monster-listings/fey/faun/)) mit 2 Stufen Ranger (Archery Combat Style)
-* Spriggan ([de](http://prd.5footstep.de/MonsterhandbuchII/Spriggan)/[en](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/spriggan/))
-* Gnom ([de](http://prd.5footstep.de/NSCKompendium/Grundklassen/Hexenmeister/BefleckterHexenmeister)/[en](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-3/tainted-sorcerer-gnome-sorcerer-4/)) mit 4 Stufen Sorcerer (Fey Bloodline)
-* [Flitzling](http://prd.5footstep.de/MonsterhandbuchII/Flitzling)/[Quickling](https://www.d20pfsrd.com/bestiary/monster-listings/fey/quickling/)
-* [Wurzelmännchen](http://prd.5footstep.de/MonsterhandbuchII/Wurzelmaennchen)/[Twigjack](https://www.d20pfsrd.com/bestiary/monster-listings/fey/twigjack/)
 * [Zentaur](http://prd.5footstep.de/Monsterhandbuch/Zentaur)/[Centaur](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/centaur/)
+* [Flitzling](http://prd.5footstep.de/MonsterhandbuchII/Flitzling)/[Quickling](https://www.d20pfsrd.com/bestiary/monster-listings/fey/quickling/)
+* Spriggan ([de](http://prd.5footstep.de/MonsterhandbuchII/Spriggan)/[en](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/spriggan/))
+* [Wurzelmännchen](http://prd.5footstep.de/MonsterhandbuchII/Wurzelmaennchen)/[Twigjack](https://www.d20pfsrd.com/bestiary/monster-listings/fey/twigjack/)
+* Gnom ([de](http://prd.5footstep.de/NSCKompendium/Grundklassen/Hexenmeister/BefleckterHexenmeister)/[en](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-3/tainted-sorcerer-gnome-sorcerer-4/)) mit 4 Stufen Sorcerer (Fey Bloodline)
 * [Nixe](http://prd.5footstep.de/MonsterhandbuchIII/Nixe)/[Nixie](https://www.d20pfsrd.com/bestiary/monster-listings/fey/nixie/) mit 3 Stufen Druid (Water Domain)
 * Gathlain ([de](http://prd.5footstep.de/MonsterhandbuchIV/Gathlain)/[en](https://www.d20pfsrd.com/bestiary/monster-listings/fey/gathlain/)) mit 2 Stufen Fighter, 1 Stufe Cleric (Chaos & Destruction Domain) & 1 Stufe Wizard (Transmutation)
 
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
 
 <style>
 .container { 
@@ -40,7 +41,7 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
 .hero {
     border: 2px solid grey;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    padding: 10px;
+    padding: 0px 10px 10px 10px;
     margin: 10px;
     position: relative;
     display: inline;
@@ -91,12 +92,31 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
         </div>
     </div>
     <div class="hero">
+        <div class="title"><h3>Quickling</h3></div>
+        <div class="image"><a href="pcs/quickling.html"><img src="pcs/quickling.png"></a></div>
+        <div class="icon">
+            <i class="fa fa-2x fa-thumbs-up" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-shield" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-gavel" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-bolt" aria-hidden="true"></i>
+        </div>
+    </div>
+    <div class="hero">
         <div class="title"><h3>Spriggan</h3></div>
         <div class="image"><a href="pcs/spriggan.html"><img src="pcs/spriggan.png"></a></div>
         <div class="icon">
             <i class="fa fa-2x fa-thumbs-up" aria-hidden="true"></i>
             <i class="fa fa-2x fa-shield" aria-hidden="true"></i>
             <i class="fa fa-2x fa-gavel" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-unlock" aria-hidden="true"></i>
+        </div>
+    </div>
+    <div class="hero">
+        <div class="title"><h3>Twigjack</h3></div>
+        <div class="image"><a href="pcs/twigjack.html"><img src="pcs/twigjack.png"></a></div>
+        <div class="icon">
+            <i class="fa fa-2x fa-thumbs-up" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-unlock" aria-hidden="true"></i>
         </div>
     </div>
     <div class="hero">
@@ -108,24 +128,7 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
         </div>
     </div>
     <div class="hero">
-        <div class="title"><h3>Quickling</h3></div>
-        <div class="image"><a href="pcs/quickling.html"><img src="pcs/quickling.png"></a></div>
-        <div class="icon">
-            <i class="fa fa-2x fa-thumbs-up" aria-hidden="true"></i>
-            <i class="fa fa-2x fa-shield" aria-hidden="true"></i>
-            <i class="fa fa-2x fa-gavel" aria-hidden="true"></i>
-            <i class="fa fa-2x fa-bolt" aria-hidden="true"></i>
-        </div>
-    </div>
-    <div class="hero">
-        <div class="title"><h3>Twigjack</h3></div>
-        <div class="image"><a href="pcs/twigjack.html"><img src="pcs/twigjack.png"></a></div>
-        <div class="icon">
-            <i class="fa fa-2x fa-balance-scale" aria-hidden="true"></i>
-        </div>
-    </div>
-    <div class="hero">
-        <div class="title"><h3>Nixie</h3></div>
+        <div class="title"><h3>Nixie Druid</h3></div>
         <div class="image"><a href="pcs/nixie.html"><img src="pcs/nixie.png"></a></div>
         <div class="icon">
             <i class="fa fa-2x fa-puzzle-piece" aria-hidden="true"></i>
@@ -144,6 +147,20 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
         </div>
     </div>
 </div>
+
+## Symbole
+
+<ul class="fa-ul">
+    <li><i class="fa-li fa fa-lg fa-thumbs-up"></i>wenig komplex zu spielen</li>
+    <li><i class="fa-li fa fa-lg fa-puzzle-piece"></i>recht komplex zu spielen</li>
+    <li><i class="fa-li fa fa-lg fa-shield"></i>hat gute Verteidigung</li>
+    <li><i class="fa-li fa fa-lg fa-bullseye"></i>ist gut im Fernkampf</li>
+    <li><i class="fa-li fa fa-lg fa-gavel"></i>ist gut im Nahkampf</li>
+    <li><i class="fa-li fa fa-lg fa-bolt"></i>kann sich sehr schnell bewegen</li>
+    <li><i class="fa-li fa fa-lg fa-unlock"></i>hat Diebesfertigkeiten</li>
+    <li><i class="fa-li fa fa-lg fa-magic"></i>wirkt Magie</li>
+    <li><i class="fa-li fa fa-lg fa-medkit"></i>kann heilen</li>
+</ul>
 
 ## Logistik
 
