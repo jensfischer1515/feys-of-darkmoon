@@ -49,88 +49,100 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
     z-index: 0;
 }
 
+.title {
+    position: relative;
+
+}
+
+.image {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70%;
+}
+
 .icon {
     position: absolute;
     z-index: 1;
-    top: 5px;
+    bottom: 5px;
     left: 5px;
-    width: 100px;
-    text-align: left;
+    width: 100%;
+    text-align: center;
 }
 </style>
 
 <div class="container">
     <div class="hero">
-        <h3>Faun Ranger</h3>
-        <a href="pcs/faun.html"><img src="pcs/faun.png"></a>
+        <div class="title"><h3>Faun Ranger</h3></div>
+        <div class="image"><a href="pcs/faun.html"><img src="pcs/faun.png"></a></div>
         <div class="icon">
-            <i class="fa fa-3x fa-thumbs-up" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-shield" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-bullseye" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-gavel" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-thumbs-up" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-shield" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-bullseye" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-gavel" aria-hidden="true"></i>
         </div>
     </div>
     <div class="hero">
-        <h3>Centaur</h3>
-        <a href="pcs/centaur.html"><img src="pcs/centaur.png"></a>
+        <div class="title"><h3>Centaur</h3></div>
+        <div class="image"><a href="pcs/centaur.html"><img src="pcs/centaur.png"></a></div>
         <div class="icon">
-            <i class="fa fa-3x fa-thumbs-up" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-bullseye" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-gavel" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-bolt" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-thumbs-up" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-bullseye" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-gavel" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-bolt" aria-hidden="true"></i>
         </div>
     </div>
     <div class="hero">
-        <h3>Spriggan</h3>
-        <a href="pcs/spriggan.html"><img src="pcs/spriggan.png"></a>
+        <div class="title"><h3>Spriggan</h3></div>
+        <div class="image"><a href="pcs/spriggan.html"><img src="pcs/spriggan.png"></a></div>
         <div class="icon">
-            <i class="fa fa-3x fa-thumbs-up" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-shield" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-gavel" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-thumbs-up" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-shield" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-gavel" aria-hidden="true"></i>
         </div>
     </div>
     <div class="hero">
-        <h3>Gnome Sorcerer</h3>
-        <a href="pcs/gnome.html"><img src="pcs/gnome.png"></a>
+        <div class="title"><h3>Gnome Sorcerer</h3></div>
+        <div class="image"><a href="pcs/gnome.html"><img src="pcs/gnome.png"></a></div>
         <div class="icon">
-            <i class="fa fa-3x fa-puzzle-piece" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-magic" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-puzzle-piece" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-magic" aria-hidden="true"></i>
         </div>
     </div>
     <div class="hero">
-        <h3>Quickling</h3>
-        <a href="pcs/quickling.html"><img src="pcs/quickling.png"></a>
+        <div class="title"><h3>Quickling</h3></div>
+        <div class="image"><a href="pcs/quickling.html"><img src="pcs/quickling.png"></a></div>
         <div class="icon">
-            <i class="fa fa-3x fa-thumbs-up" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-shield" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-gavel" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-bolt" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-thumbs-up" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-shield" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-gavel" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-bolt" aria-hidden="true"></i>
         </div>
     </div>
     <div class="hero">
-        <h3>Twigjack</h3>
-        <a href="pcs/twigjack.html"><img src="pcs/twigjack.png"></a>
+        <div class="title"><h3>Twigjack</h3></div>
+        <div class="image"><a href="pcs/twigjack.html"><img src="pcs/twigjack.png"></a></div>
         <div class="icon">
-            <i class="fa fa-3x fa-balance-scale" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-balance-scale" aria-hidden="true"></i>
         </div>
     </div>
     <div class="hero">
-        <h3>Nixie</h3>
-        <a href="pcs/nixie.html"><img src="pcs/nixie.png"></a>
+        <div class="title"><h3>Nixie</h3></div>
+        <div class="image"><a href="pcs/nixie.html"><img src="pcs/nixie.png"></a></div>
         <div class="icon">
-            <i class="fa fa-3x fa-puzzle-piece" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-magic" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-medkit" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-puzzle-piece" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-magic" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-medkit" aria-hidden="true"></i>
         </div>
     </div>
     <div class="hero">
-        <h3>Gathlain Fighter/Cleric/Transmuter</h3>
-        <a href="pcs/gathlain.html"><img src="pcs/gathlain.png"></a>
+        <div class="title"><h3>Gathlain Fighter/Cleric/Transmuter</h3></div>
+        <div class="image"><a href="pcs/gathlain.html"><img src="pcs/gathlain.png"></a></div>
         <div class="icon">
-            <i class="fa fa-3x fa-puzzle-piece" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-magic" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-medkit" aria-hidden="true"></i>
-            <i class="fa fa-3x fa-gavel" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-puzzle-piece" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-magic" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-medkit" aria-hidden="true"></i>
+            <i class="fa fa-2x fa-gavel" aria-hidden="true"></i>
         </div>
     </div>
 </div>
