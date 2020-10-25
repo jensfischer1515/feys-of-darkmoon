@@ -30,7 +30,7 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
 <style>
 .container { 
     display: grid;
-    grid-template-rows: 300px 300px 300px 300px; 
+    grid-template-rows: 400px 400px 400px 400px; 
     grid-template-columns: 50% 50%; 
     width: 80%;
     text-align: center;
@@ -40,7 +40,6 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
 
 .hero {
     border: 2px solid grey;
-    //box-shadow: 5px 5px 5px #888888;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     padding: 10px;
     margin: 10px;
@@ -51,23 +50,20 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
 
 .title {
     position: relative;
-
 }
 
 .image {
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    height: 70%;
+    height: 250px;
 }
 
 .icon {
     position: absolute;
     z-index: 1;
     bottom: 5px;
-    left: 5px;
     width: 100%;
-    text-align: center;
 }
 </style>
 
