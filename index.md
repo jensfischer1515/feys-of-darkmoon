@@ -20,35 +20,119 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
 * Gnom ([de](http://prd.5footstep.de/NSCKompendium/Grundklassen/Hexenmeister/BefleckterHexenmeister)/[en](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-3/tainted-sorcerer-gnome-sorcerer-4/)) mit 4 Stufen Sorcerer (Fey Bloodline)
 * [Flitzling](http://prd.5footstep.de/MonsterhandbuchII/Flitzling)/[Quickling](https://www.d20pfsrd.com/bestiary/monster-listings/fey/quickling/)
 * [Wurzelmännchen](http://prd.5footstep.de/MonsterhandbuchII/Wurzelmaennchen)/[Twigjack](https://www.d20pfsrd.com/bestiary/monster-listings/fey/twigjack/)
-* Centaur ([de](http://prd.5footstep.de/Monsterhandbuch/Zentaur)/[en](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/centaur/))
+* [Zentaur](http://prd.5footstep.de/Monsterhandbuch/Zentaur)/[Centaur](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/centaur/)
 * [Nixe](http://prd.5footstep.de/MonsterhandbuchIII/Nixe)/[Nixie](https://www.d20pfsrd.com/bestiary/monster-listings/fey/nixie/) mit 3 Stufen Druid (Water Domain)
 * Gathlain ([de](http://prd.5footstep.de/MonsterhandbuchIV/Gathlain)/[en](https://www.d20pfsrd.com/bestiary/monster-listings/fey/gathlain/)) mit 2 Stufen Fighter, 1 Stufe Cleric (Chaos & Destruction Domain) & 1 Stufe Wizard (Transmutation)
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <style>
 .container { 
     display: grid;
-    grid-template-rows: 300px 300px; 
-    grid-template-columns: 25% 25% 25% 25%; 
+    grid-template-rows: 300px 300px 300px 300px; 
+    grid-template-columns: 50% 50%; 
     width: 80%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
 }
 
-.container div {
-    margin: 15px;
+.hero {
+    border: 2px solid grey;
+    //box-shadow: 5px 5px 5px #888888;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+    display: inline;
+    z-index: 0;
+}
+
+.icon {
+    position: absolute;
+    z-index: 1;
+    top: 5px;
+    left: 5px;
+    width: 100px;
+    text-align: left;
 }
 </style>
 
 <div class="container">
-    <div><a href="pcs/faun.html"><img src="pcs/faun.png"></a></div>
-    <div><a href="pcs/spriggan.html"><img src="pcs/spriggan.png"></a></div>
-    <div><a href="pcs/gnome.html"><img src="pcs/gnome.png"></a></div>
-    <div><a href="pcs/quickling.html"><img src="pcs/quickling.png"></a></div>
-    <div><a href="pcs/twigjack.html"><img src="pcs/twigjack.png"></a></div>
-    <div><a href="pcs/centaur.html"><img src="pcs/centaur.png"></a></div>
-    <div><a href="pcs/nixie.html"><img src="pcs/nixie.png"></a></div>
-    <div><a href="pcs/gathlain.html"><img src="pcs/gathlain.png"></a></div>
+    <div class="hero">
+        <h3>Faun Ranger</h3>
+        <a href="pcs/faun.html"><img src="pcs/faun.png"></a>
+        <div class="icon">
+            <i class="fa fa-3x fa-thumbs-up" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-shield" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-bullseye" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-gavel" aria-hidden="true"></i>
+        </div>
+    </div>
+    <div class="hero">
+        <h3>Centaur</h3>
+        <a href="pcs/centaur.html"><img src="pcs/centaur.png"></a>
+        <div class="icon">
+            <i class="fa fa-3x fa-thumbs-up" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-bullseye" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-gavel" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-bolt" aria-hidden="true"></i>
+        </div>
+    </div>
+    <div class="hero">
+        <h3>Spriggan</h3>
+        <a href="pcs/spriggan.html"><img src="pcs/spriggan.png"></a>
+        <div class="icon">
+            <i class="fa fa-3x fa-thumbs-up" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-shield" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-gavel" aria-hidden="true"></i>
+        </div>
+    </div>
+    <div class="hero">
+        <h3>Gnome Sorcerer</h3>
+        <a href="pcs/gnome.html"><img src="pcs/gnome.png"></a>
+        <div class="icon">
+            <i class="fa fa-3x fa-puzzle-piece" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-magic" aria-hidden="true"></i>
+        </div>
+    </div>
+    <div class="hero">
+        <h3>Quickling</h3>
+        <a href="pcs/quickling.html"><img src="pcs/quickling.png"></a>
+        <div class="icon">
+            <i class="fa fa-3x fa-thumbs-up" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-shield" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-gavel" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-bolt" aria-hidden="true"></i>
+        </div>
+    </div>
+    <div class="hero">
+        <h3>Twigjack</h3>
+        <a href="pcs/twigjack.html"><img src="pcs/twigjack.png"></a>
+        <div class="icon">
+            <i class="fa fa-3x fa-balance-scale" aria-hidden="true"></i>
+        </div>
+    </div>
+    <div class="hero">
+        <h3>Nixie</h3>
+        <a href="pcs/nixie.html"><img src="pcs/nixie.png"></a>
+        <div class="icon">
+            <i class="fa fa-3x fa-puzzle-piece" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-magic" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-medkit" aria-hidden="true"></i>
+        </div>
+    </div>
+    <div class="hero">
+        <h3>Gathlain Fighter/Cleric/Transmuter</h3>
+        <a href="pcs/gathlain.html"><img src="pcs/gathlain.png"></a>
+        <div class="icon">
+            <i class="fa fa-3x fa-puzzle-piece" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-magic" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-medkit" aria-hidden="true"></i>
+            <i class="fa fa-3x fa-gavel" aria-hidden="true"></i>
+        </div>
+    </div>
 </div>
 
 ## Logistik
