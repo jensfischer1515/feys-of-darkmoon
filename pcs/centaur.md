@@ -32,7 +32,7 @@ CN Large monstrous humanoid<br/>
 <b>Skills </b>Acrobatics +1 (+5 to jump with a running start, +9 to jump), Diplomacy +5, Intimidate +6, Knowledge (nature) +4, Perception +7, Survival +9<br/>
 <b>Languages </b>Common, Elven, Sylvan<br/>
 <b>SQ </b>undersized weapons<br/>
-<b>Combat Gear </b><i>potion of cure light wounds</i> (3), <i>potion of jump</i>, <i>potion of reduce person</i>; <b>Other Gear </b><i>+1 chain shirt</i>, darkwood composite shortbow (+2 Str) with 40 arrows, spear, bedroll, belt pouch, flint and steel, mess kit<sup>UE</sup>, pot, saddlebags, soap, torch (5), trail rations (3), waterskin<br/>
+<b>Combat Gear </b><i>oil of magic weapon</i>, <i>potion of cure light wounds</i> (3), <i>potion of reduce person</i>; <b>Other Gear </b><i>+1 chain shirt</i>, darkwood composite shortbow (+2 Str) with 40 arrows, spear, bedroll, belt pouch, flint and steel, mess kit<sup>UE</sup>, pot, saddlebags, soap, torch (5), trail rations (3), waterskin<br/>
 <hr/><b>Ecology</b><br/>
 <hr/><b>Environment</b> temperate forests and plains<br/>
 <b>Organization</b> solitary, pair, band (3-10), tribe (11-30 plus 3 hunters of 3rd level and 1 leader of 6th level)<br/>
