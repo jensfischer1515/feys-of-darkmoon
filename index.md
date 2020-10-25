@@ -32,7 +32,6 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
     display: grid;
     grid-template-rows: 400px 400px 400px 400px; 
     grid-template-columns: 50% 50%; 
-    width: 80%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -56,7 +55,10 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    height: 250px;
+}
+
+.image img {
+    max-height: 250px;
 }
 
 .icon {
@@ -132,7 +134,7 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
         </div>
     </div>
     <div class="hero">
-        <div class="title"><h3>Gathlain Fighter/Cleric/Transmuter</h3></div>
+        <div class="title"><h3>Gathlain Fighter / Cleric / Transmuter</h3></div>
         <div class="image"><a href="pcs/gathlain.html"><img src="pcs/gathlain.png"></a></div>
         <div class="icon">
             <i class="fa fa-2x fa-puzzle-piece" aria-hidden="true"></i>
