@@ -167,4 +167,8 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
 Das One-Shot Abenteuer wird per Video Chat stattfinden. Dazu bietet sich z.B. die [Jitsi Plattform](https://meet.jit.si/) an, weil sie mit sehr wenig Setup-Aufwand am Rechner, Smartphone oder Tablet einzurichten ist.
 Ihr könnt ja schonmal testen, ob ihr einem für den One-Shot dienenden [Chatraum](https://meet.jit.si/SyntirasFeenwesen) betreten könnt :-)
 
+Oder alternativ über Discord:
+
+<iframe src="https://discord.com/widget?id=770728670926602280&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 Termin: **TBD!**
