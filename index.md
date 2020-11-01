@@ -100,7 +100,7 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
             <i class="fa fa-2x fa-gavel" aria-hidden="true"></i>
         </div>
         <div class="pdf">
-            <a href="#"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
+            <a href="pcs/faun.pdf"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
         </div>
     </div>
     <div class="hero">
@@ -113,7 +113,7 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
             <i class="fa fa-2x fa-bolt" aria-hidden="true"></i>
         </div>
         <div class="pdf">
-            <a href="#"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
+            <a href="pcs/centaur.pdf"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
         </div>
     </div>
     <div class="hero">
@@ -126,7 +126,7 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
             <i class="fa fa-2x fa-bolt" aria-hidden="true"></i>
         </div>
         <div class="pdf">
-            <a href="#"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
+            <a href="pcs/quickling.pdf"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
         </div>
     </div>
     <div class="hero">
@@ -139,7 +139,7 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
             <i class="fa fa-2x fa-unlock" aria-hidden="true"></i>
         </div>
         <div class="pdf">
-            <a href="#"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
+            <a href="pcs/spriggan.pdf"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
         </div>
     </div>
     <div class="hero">
@@ -150,7 +150,7 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
             <i class="fa fa-2x fa-unlock" aria-hidden="true"></i>
         </div>
         <div class="pdf">
-            <a href="#"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
+            <a href="pcs/twigjack.pdf"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
         </div>
     </div>
     <div class="hero">
@@ -161,7 +161,7 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
             <i class="fa fa-2x fa-magic" aria-hidden="true"></i>
         </div>
         <div class="pdf">
-            <a href="#"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
+            <a href="pcs/gnome.pdf"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
         </div>
     </div>
     <div class="hero">
@@ -173,7 +173,7 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
             <i class="fa fa-2x fa-medkit" aria-hidden="true"></i>
         </div>
         <div class="pdf">
-            <a href="#"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
+            <a href="pcs/nixie.pdf"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
         </div>
     </div>
     <div class="hero">
@@ -186,7 +186,7 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
             <i class="fa fa-2x fa-gavel" aria-hidden="true"></i>
         </div>
         <div class="pdf">
-            <a href="#"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
+            <a href="pcs/gathlain.pdf"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
         </div>
     </div>
 </div>
