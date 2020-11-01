@@ -67,6 +67,25 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
     z-index: 1;
     bottom: 5px;
     width: 100%;
+    //color: black;
+}
+
+.pdf {
+    //border: 1px solid white;
+    position: absolute;
+    z-index: 1;
+    top: 10px;
+    right: 10px;
+    width: 100%;
+    text-align: right;
+    color: #F40F02;
+}
+
+.pdf a:link,
+.pdf a:visited,
+.pdf a:hover,
+.pdf a:active {
+    color: #F40F02;
 }
 </style>
 
@@ -80,6 +99,9 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
             <i class="fa fa-2x fa-bullseye" aria-hidden="true"></i>
             <i class="fa fa-2x fa-gavel" aria-hidden="true"></i>
         </div>
+        <div class="pdf">
+            <a href="#"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
+        </div>
     </div>
     <div class="hero">
         <div class="title"><h3>Centaur</h3></div>
@@ -89,6 +111,9 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
             <i class="fa fa-2x fa-bullseye" aria-hidden="true"></i>
             <i class="fa fa-2x fa-gavel" aria-hidden="true"></i>
             <i class="fa fa-2x fa-bolt" aria-hidden="true"></i>
+        </div>
+        <div class="pdf">
+            <a href="#"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
         </div>
     </div>
     <div class="hero">
@@ -100,6 +125,9 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
             <i class="fa fa-2x fa-gavel" aria-hidden="true"></i>
             <i class="fa fa-2x fa-bolt" aria-hidden="true"></i>
         </div>
+        <div class="pdf">
+            <a href="#"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
+        </div>
     </div>
     <div class="hero">
         <div class="title"><h3>Spriggan</h3></div>
@@ -110,6 +138,9 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
             <i class="fa fa-2x fa-gavel" aria-hidden="true"></i>
             <i class="fa fa-2x fa-unlock" aria-hidden="true"></i>
         </div>
+        <div class="pdf">
+            <a href="#"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
+        </div>
     </div>
     <div class="hero">
         <div class="title"><h3>Twigjack</h3></div>
@@ -118,6 +149,9 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
             <i class="fa fa-2x fa-thumbs-up" aria-hidden="true"></i>
             <i class="fa fa-2x fa-unlock" aria-hidden="true"></i>
         </div>
+        <div class="pdf">
+            <a href="#"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
+        </div>
     </div>
     <div class="hero">
         <div class="title"><h3>Gnome Sorcerer</h3></div>
@@ -125,6 +159,9 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
         <div class="icon">
             <i class="fa fa-2x fa-puzzle-piece" aria-hidden="true"></i>
             <i class="fa fa-2x fa-magic" aria-hidden="true"></i>
+        </div>
+        <div class="pdf">
+            <a href="#"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
         </div>
     </div>
     <div class="hero">
@@ -135,6 +172,9 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
             <i class="fa fa-2x fa-magic" aria-hidden="true"></i>
             <i class="fa fa-2x fa-medkit" aria-hidden="true"></i>
         </div>
+        <div class="pdf">
+            <a href="#"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
+        </div>
     </div>
     <div class="hero">
         <div class="title"><h3>Gathlain Fighter / Cleric / Transmuter</h3></div>
@@ -144,6 +184,9 @@ Es werden vorgefertigte Charaktere mit Challenge Rating 3 (entspricht ungefähr 
             <i class="fa fa-2x fa-magic" aria-hidden="true"></i>
             <i class="fa fa-2x fa-medkit" aria-hidden="true"></i>
             <i class="fa fa-2x fa-gavel" aria-hidden="true"></i>
+        </div>
+        <div class="pdf">
+            <a href="#"><i class="fa fa-3x fa-file-pdf-o" aria-hidden="true"></i></a>
         </div>
     </div>
 </div>
